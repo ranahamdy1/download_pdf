@@ -27,4 +27,4 @@ composer require barryvdh/laravel-dompdf
 - ![pdf_download](public/images/pdf_download.png)
 
 
-
+#### [READ](https://bagisto.com/en/how-to-generate-a-pdf-in-laravel-view/)
